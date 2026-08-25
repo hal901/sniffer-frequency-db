@@ -2,7 +2,7 @@
   {
     "frequencyMHz": 119.105,
     "name": "Barcelona APP",
-    "detail": "Aproximación",
+    "detail": "APP/L",
     "mode": "AM",
     "category": "AVIATION",
     "city": "Barcelona",
@@ -13,7 +13,7 @@
   {
     "frequencyMHz": 121.155,
     "name": "Barcelona APP",
-    "detail": "Aproximación alta",
+    "detail": "APP/H",
     "mode": "AM",
     "category": "AVIATION",
     "city": "Barcelona",
@@ -24,7 +24,7 @@
   {
     "frequencyMHz": 125.250,
     "name": "Barcelona APP",
-    "detail": "Aproximación",
+    "detail": "APP/H",
     "mode": "AM",
     "category": "AVIATION",
     "city": "Barcelona",
@@ -35,7 +35,7 @@
   {
     "frequencyMHz": 126.505,
     "name": "Barcelona APP",
-    "detail": "Aproximación alta",
+    "detail": "APP/H",
     "mode": "AM",
     "category": "AVIATION",
     "city": "Barcelona",
@@ -46,7 +46,7 @@
   {
     "frequencyMHz": 127.700,
     "name": "Barcelona APP",
-    "detail": "Aproximación",
+    "detail": "APP/H",
     "mode": "AM",
     "category": "AVIATION",
     "city": "Barcelona",
@@ -86,6 +86,443 @@
     "region": "Catalunya",
     "latitude": 41.297,
     "longitude": 2.078
+  },
+
+  {
+    "frequencyMHz": 120.905,
+    "name": "Girona APP",
+    "detail": "Aproximación",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Girona",
+    "region": "Catalunya",
+    "latitude": 41.901,
+    "longitude": 2.761
+  },
+  {
+    "frequencyMHz": 118.505,
+    "name": "Girona TWR",
+    "detail": "Torre",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Girona",
+    "region": "Catalunya",
+    "latitude": 41.901,
+    "longitude": 2.761
+  },
+  {
+    "frequencyMHz": 121.705,
+    "name": "Girona GMC",
+    "detail": "Ground",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Girona",
+    "region": "Catalunya",
+    "latitude": 41.901,
+    "longitude": 2.761
+  },
+  {
+    "frequencyMHz": 128.755,
+    "name": "Girona ATIS",
+    "detail": "Información automática",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Girona",
+    "region": "Catalunya",
+    "latitude": 41.901,
+    "longitude": 2.761
+  },
+
+  {
+    "frequencyMHz": 128.880,
+    "name": "Reus APP/TWR",
+    "detail": "Aproximación y torre",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Reus",
+    "region": "Catalunya",
+    "latitude": 41.147,
+    "longitude": 1.167
+  },
+  {
+    "frequencyMHz": 121.705,
+    "name": "Reus GMC",
+    "detail": "Ground",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Reus",
+    "region": "Catalunya",
+    "latitude": 41.147,
+    "longitude": 1.167
+  },
+  {
+    "frequencyMHz": 120.255,
+    "name": "Reus ATIS",
+    "detail": "Información automática",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Reus",
+    "region": "Catalunya",
+    "latitude": 41.147,
+    "longitude": 1.167
+  },
+
+  {
+    "frequencyMHz": 120.805,
+    "name": "Sabadell TWR",
+    "detail": "Torre",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Sabadell",
+    "region": "Catalunya",
+    "latitude": 41.521,
+    "longitude": 2.105
+  },
+  {
+    "frequencyMHz": 121.605,
+    "name": "Sabadell GMC",
+    "detail": "Ground",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Sabadell",
+    "region": "Catalunya",
+    "latitude": 41.521,
+    "longitude": 2.105
+  },
+  {
+    "frequencyMHz": 123.500,
+    "name": "Sabadell Aeroclub",
+    "detail": "A/G",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Sabadell",
+    "region": "Catalunya",
+    "latitude": 41.521,
+    "longitude": 2.105
+  },
+
+  {
+    "frequencyMHz": 119.305,
+    "name": "Zaragoza APP",
+    "detail": "APP/H",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Zaragoza",
+    "region": "Aragón",
+    "latitude": 41.666,
+    "longitude": -1.042
+  },
+  {
+    "frequencyMHz": 125.005,
+    "name": "Zaragoza APP",
+    "detail": "APP/I",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Zaragoza",
+    "region": "Aragón",
+    "latitude": 41.666,
+    "longitude": -1.042
+  },
+  {
+    "frequencyMHz": 127.055,
+    "name": "Zaragoza APP",
+    "detail": "APP/I",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Zaragoza",
+    "region": "Aragón",
+    "latitude": 41.666,
+    "longitude": -1.042
+  },
+  {
+    "frequencyMHz": 122.105,
+    "name": "Zaragoza TWR",
+    "detail": "Torre civil",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Zaragoza",
+    "region": "Aragón",
+    "latitude": 41.666,
+    "longitude": -1.042
+  },
+  {
+    "frequencyMHz": 118.105,
+    "name": "Zaragoza GMC",
+    "detail": "Ground",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Zaragoza",
+    "region": "Aragón",
+    "latitude": 41.666,
+    "longitude": -1.042
+  },
+
+  {
+    "frequencyMHz": 124.230,
+    "name": "Madrid APP",
+    "detail": "APP/L · DEP W",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Madrid",
+    "region": "Comunidad de Madrid",
+    "latitude": 40.472,
+    "longitude": -3.561
+  },
+  {
+    "frequencyMHz": 127.100,
+    "name": "Madrid APP",
+    "detail": "Aproximación",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Madrid",
+    "region": "Comunidad de Madrid",
+    "latitude": 40.472,
+    "longitude": -3.561
+  },
+  {
+    "frequencyMHz": 127.505,
+    "name": "Madrid APP",
+    "detail": "Aproximación",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Madrid",
+    "region": "Comunidad de Madrid",
+    "latitude": 40.472,
+    "longitude": -3.561
+  },
+  {
+    "frequencyMHz": 131.175,
+    "name": "Madrid APP",
+    "detail": "DEP E",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Madrid",
+    "region": "Comunidad de Madrid",
+    "latitude": 40.472,
+    "longitude": -3.561
+  },
+  {
+    "frequencyMHz": 118.080,
+    "name": "Madrid-Barajas TWR",
+    "detail": "ARR 18R · DEP 36L",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Madrid",
+    "region": "Comunidad de Madrid",
+    "latitude": 40.472,
+    "longitude": -3.561
+  },
+  {
+    "frequencyMHz": 118.155,
+    "name": "Madrid-Barajas TWR",
+    "detail": "ARR 32L · DEP 14R",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Madrid",
+    "region": "Comunidad de Madrid",
+    "latitude": 40.472,
+    "longitude": -3.561
+  },
+  {
+    "frequencyMHz": 118.680,
+    "name": "Madrid-Barajas TWR",
+    "detail": "ARR 18L · DEP 36R",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Madrid",
+    "region": "Comunidad de Madrid",
+    "latitude": 40.472,
+    "longitude": -3.561
+  },
+  {
+    "frequencyMHz": 118.980,
+    "name": "Madrid-Barajas TWR",
+    "detail": "ARR 32R · DEP 14L",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Madrid",
+    "region": "Comunidad de Madrid",
+    "latitude": 40.472,
+    "longitude": -3.561
+  },
+  {
+    "frequencyMHz": 118.255,
+    "name": "Madrid-Barajas ATIS",
+    "detail": "Llegadas",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Madrid",
+    "region": "Comunidad de Madrid",
+    "latitude": 40.472,
+    "longitude": -3.561
+  },
+  {
+    "frequencyMHz": 130.855,
+    "name": "Madrid-Barajas ATIS",
+    "detail": "Salidas",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Madrid",
+    "region": "Comunidad de Madrid",
+    "latitude": 40.472,
+    "longitude": -3.561
+  },
+
+  {
+    "frequencyMHz": 118.705,
+    "name": "Cuatro Vientos TWR",
+    "detail": "Torre",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Madrid",
+    "region": "Comunidad de Madrid",
+    "latitude": 40.371,
+    "longitude": -3.785
+  },
+  {
+    "frequencyMHz": 121.805,
+    "name": "Cuatro Vientos GMC",
+    "detail": "Ground",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Madrid",
+    "region": "Comunidad de Madrid",
+    "latitude": 40.371,
+    "longitude": -3.785
+  },
+  {
+    "frequencyMHz": 118.230,
+    "name": "Cuatro Vientos ATIS",
+    "detail": "Información automática",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Madrid",
+    "region": "Comunidad de Madrid",
+    "latitude": 40.371,
+    "longitude": -3.785
+  },
+
+  {
+    "frequencyMHz": 120.100,
+    "name": "Valencia APP",
+    "detail": "APP/L",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Valencia",
+    "region": "Comunitat Valenciana",
+    "latitude": 39.489,
+    "longitude": -0.482
+  },
+  {
+    "frequencyMHz": 124.750,
+    "name": "Valencia APP",
+    "detail": "APP/H",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Valencia",
+    "region": "Comunitat Valenciana",
+    "latitude": 39.489,
+    "longitude": -0.482
+  },
+  {
+    "frequencyMHz": 119.075,
+    "name": "Valencia APP",
+    "detail": "Backup",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Valencia",
+    "region": "Comunitat Valenciana",
+    "latitude": 39.489,
+    "longitude": -0.482
+  },
+  {
+    "frequencyMHz": 118.555,
+    "name": "Valencia TWR",
+    "detail": "Torre",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Valencia",
+    "region": "Comunitat Valenciana",
+    "latitude": 39.489,
+    "longitude": -0.482
+  },
+  {
+    "frequencyMHz": 121.880,
+    "name": "Valencia GMC",
+    "detail": "Ground",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Valencia",
+    "region": "Comunitat Valenciana",
+    "latitude": 39.489,
+    "longitude": -0.482
+  },
+  {
+    "frequencyMHz": 121.080,
+    "name": "Valencia ATIS",
+    "detail": "Información automática",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Valencia",
+    "region": "Comunitat Valenciana",
+    "latitude": 39.489,
+    "longitude": -0.482
+  },
+
+  {
+    "frequencyMHz": 120.800,
+    "name": "Sevilla APP",
+    "detail": "APP/L · Sector Norte",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Sevilla",
+    "region": "Andalucía",
+    "latitude": 37.418,
+    "longitude": -5.893
+  },
+  {
+    "frequencyMHz": 128.500,
+    "name": "Sevilla APP",
+    "detail": "APP/H · Sector Sur",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Sevilla",
+    "region": "Andalucía",
+    "latitude": 37.418,
+    "longitude": -5.893
+  },
+  {
+    "frequencyMHz": 124.730,
+    "name": "Sevilla APP",
+    "detail": "APP/H · Backup sector Norte",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Sevilla",
+    "region": "Andalucía",
+    "latitude": 37.418,
+    "longitude": -5.893
+  },
+  {
+    "frequencyMHz": 118.105,
+    "name": "Sevilla TWR",
+    "detail": "Torre",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Sevilla",
+    "region": "Andalucía",
+    "latitude": 37.418,
+    "longitude": -5.893
+  },
+  {
+    "frequencyMHz": 118.180,
+    "name": "Sevilla ATIS",
+    "detail": "Información automática",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Sevilla",
+    "region": "Andalucía",
+    "latitude": 37.418,
+    "longitude": -5.893
   },
 
   {
@@ -300,8 +737,8 @@
 
   {
     "frequencyMHz": 156.450,
-    "name": "VHF Canal 09",
-    "detail": "Marina Vela Barcelona",
+    "name": "CH09 · Marina Vela Barcelona",
+    "detail": "Puerto deportivo",
     "mode": "FM",
     "category": "MARITIME",
     "city": "Barcelona",
@@ -311,8 +748,8 @@
   },
   {
     "frequencyMHz": 156.500,
-    "name": "VHF Canal 10",
-    "detail": "Barcelona Tráfico",
+    "name": "CH10 · Barcelona Tráfico",
+    "detail": "Tráfico portuario",
     "mode": "FM",
     "category": "MARITIME",
     "city": "Barcelona",
@@ -322,8 +759,8 @@
   },
   {
     "frequencyMHz": 156.550,
-    "name": "VHF Canal 11",
-    "detail": "Servicios portuarios · Prácticos",
+    "name": "CH11 · Servicios portuarios",
+    "detail": "Prácticos",
     "mode": "FM",
     "category": "MARITIME",
     "city": "Barcelona",
@@ -333,8 +770,8 @@
   },
   {
     "frequencyMHz": 156.600,
-    "name": "VHF Canal 12",
-    "detail": "Movilización de servicios portuarios",
+    "name": "CH12 · Servicios portuarios",
+    "detail": "Movilización de servicios",
     "mode": "FM",
     "category": "MARITIME",
     "city": "Barcelona",
@@ -344,8 +781,8 @@
   },
   {
     "frequencyMHz": 156.650,
-    "name": "VHF Canal 13",
-    "detail": "Auxiliar de servicios portuarios",
+    "name": "CH13 · Servicios portuarios",
+    "detail": "Canal auxiliar",
     "mode": "FM",
     "category": "MARITIME",
     "city": "Barcelona",
@@ -355,8 +792,8 @@
   },
   {
     "frequencyMHz": 156.700,
-    "name": "VHF Canal 14",
-    "detail": "Barcelona Port Control",
+    "name": "CH14 · Barcelona Port Control",
+    "detail": "Control portuario",
     "mode": "FM",
     "category": "MARITIME",
     "city": "Barcelona",
@@ -366,8 +803,8 @@
   },
   {
     "frequencyMHz": 156.425,
-    "name": "VHF Canal 68",
-    "detail": "Marina Port Vell",
+    "name": "CH68 · Marina Port Vell",
+    "detail": "Puerto deportivo",
     "mode": "FM",
     "category": "MARITIME",
     "city": "Barcelona",
@@ -377,8 +814,8 @@
   },
   {
     "frequencyMHz": 156.475,
-    "name": "VHF Canal 69",
-    "detail": "Marina BCN'92",
+    "name": "CH69 · Marina BCN'92",
+    "detail": "Puerto deportivo",
     "mode": "FM",
     "category": "MARITIME",
     "city": "Barcelona",
@@ -388,8 +825,8 @@
   },
   {
     "frequencyMHz": 156.575,
-    "name": "VHF Canal 71",
-    "detail": "AC Port Control · Zona norte",
+    "name": "CH71 · AC Port Control",
+    "detail": "Zona norte",
     "mode": "FM",
     "category": "MARITIME",
     "city": "Barcelona",
@@ -397,18 +834,17 @@
     "latitude": 41.350,
     "longitude": 2.170
   },
-
   {
     "frequencyMHz": 156.800,
-    "name": "VHF Canal 16",
+    "name": "CH16 · Socorro y llamada",
     "detail": "Socorro · Seguridad · Llamada",
     "mode": "FM",
     "category": "MARITIME"
   },
   {
     "frequencyMHz": 156.525,
-    "name": "VHF Canal 70",
-    "detail": "DSC · Socorro y llamada digital",
+    "name": "CH70 · DSC",
+    "detail": "Socorro y llamada selectiva digital",
     "mode": "DIG",
     "category": "MARITIME"
   },
