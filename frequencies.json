@@ -862,4 +862,375 @@
     "mode": "DIG",
     "category": "MARITIME"
   }
+    {
+    "frequencyMHz": 243.000,
+    "name": "Emergencia aeronáutica",
+    "detail": "Emergencia internacional · UHF militar",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "LOCAL"
+  },
+
+  {
+    "frequencyMHz": 118.035,
+    "name": "Barcelona Control · GO3",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECB"
+  },
+  {
+    "frequencyMHz": 119.665,
+    "name": "Barcelona Control · GO1",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECB"
+  },
+  {
+    "frequencyMHz": 134.680,
+    "name": "Barcelona Control · GO1",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECB"
+  },
+  {
+    "frequencyMHz": 120.535,
+    "name": "Barcelona Control · LVU",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECB"
+  },
+  {
+    "frequencyMHz": 125.730,
+    "name": "Barcelona Control · CCL",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECB"
+  },
+  {
+    "frequencyMHz": 126.650,
+    "name": "Barcelona Control · LVS",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECB"
+  },
+  {
+    "frequencyMHz": 126.885,
+    "name": "Barcelona Control · GO2",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECB"
+  },
+  {
+    "frequencyMHz": 129.530,
+    "name": "Barcelona Control · LVL",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECB"
+  },
+  {
+    "frequencyMHz": 132.355,
+    "name": "Barcelona Control · P2R",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECB"
+  },
+  {
+    "frequencyMHz": 132.655,
+    "name": "Barcelona Control · MNL",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECB"
+  },
+  {
+    "frequencyMHz": 133.080,
+    "name": "Barcelona Control · VNI",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECB"
+  },
+  {
+    "frequencyMHz": 134.455,
+    "name": "Barcelona Control · BAS",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECB"
+  },
+  {
+    "frequencyMHz": 135.555,
+    "name": "Barcelona Control · BAS",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECB"
+  },
+  {
+    "frequencyMHz": 134.985,
+    "name": "Barcelona Control · MNU",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECB"
+  },
+  {
+    "frequencyMHz": 135.355,
+    "name": "Barcelona Control · CCU",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECB"
+  },
+
+  {
+    "frequencyMHz": 135.955,
+    "name": "Madrid Control · SAU",
+    "detail": "ACC · FIR/UIR · Backup 125.225",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECM"
+  },
+  {
+    "frequencyMHz": 136.355,
+    "name": "Madrid Control · SAL",
+    "detail": "ACC · FIR/UIR · Backup 125.225",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECM"
+  },
+  {
+    "frequencyMHz": 135.700,
+    "name": "Madrid Control · ASU",
+    "detail": "ACC · FIR/UIR · Backup 125.225",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECM"
+  },
+  {
+    "frequencyMHz": 126.675,
+    "name": "Madrid Control · ASL",
+    "detail": "ACC · FIR/UIR · Backup 125.225",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECM"
+  },
+  {
+    "frequencyMHz": 125.755,
+    "name": "Madrid Control · BLU",
+    "detail": "ACC · FIR/UIR · Backup 126.550",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECM"
+  },
+  {
+    "frequencyMHz": 118.275,
+    "name": "Madrid Control · BLL",
+    "detail": "ACC · FIR/UIR · Backup 126.550",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECM"
+  },
+  {
+    "frequencyMHz": 134.355,
+    "name": "Madrid Control · DGU",
+    "detail": "ACC · FIR/UIR · Backup 126.550",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECM"
+  },
+  {
+    "frequencyMHz": 133.125,
+    "name": "Madrid Control · DGL",
+    "detail": "ACC · FIR/UIR · Backup 126.550",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECM"
+  },
+  {
+    "frequencyMHz": 132.055,
+    "name": "Madrid Control · PAU",
+    "detail": "ACC · FIR/UIR · Backup 131.025",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECM"
+  },
+  {
+    "frequencyMHz": 124.875,
+    "name": "Madrid Control · PAL",
+    "detail": "ACC · FIR/UIR · Backup 131.025",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECM"
+  },
+  {
+    "frequencyMHz": 132.550,
+    "name": "Madrid Control · ZMU",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECM"
+  },
+  {
+    "frequencyMHz": 127.325,
+    "name": "Madrid Control · ZMM",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECM"
+  },
+  {
+    "frequencyMHz": 136.525,
+    "name": "Madrid Control · ZML",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECM"
+  },
+  {
+    "frequencyMHz": 133.755,
+    "name": "Madrid Control · TLU",
+    "detail": "ACC · FIR/UIR · Backup 136.405",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECM"
+  },
+  {
+    "frequencyMHz": 133.205,
+    "name": "Madrid Control · TLL",
+    "detail": "ACC · FIR/UIR · Backup 136.405",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECM"
+  },
+  {
+    "frequencyMHz": 132.980,
+    "name": "Madrid Control · CJU",
+    "detail": "ACC · FIR/UIR · Backup 129.455",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECM"
+  },
+  {
+    "frequencyMHz": 133.850,
+    "name": "Madrid Control · CJL",
+    "detail": "ACC · FIR/UIR · Backup 129.455",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECM"
+  },
+  {
+    "frequencyMHz": 127.230,
+    "name": "Madrid Control · ZGZ",
+    "detail": "ACC · FIR/UIR · Backup 131.025",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECM"
+  },
+  {
+    "frequencyMHz": 119.630,
+    "name": "Madrid Control · TER",
+    "detail": "ACC · FIR/UIR · Backup 131.025",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECM"
+  },
+
+  {
+    "frequencyMHz": 128.500,
+    "name": "Sevilla Control · APT",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECS"
+  },
+  {
+    "frequencyMHz": 135.025,
+    "name": "Sevilla Control · SEV",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECS"
+  },
+  {
+    "frequencyMHz": 134.800,
+    "name": "Sevilla Control · MA4",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECS"
+  },
+  {
+    "frequencyMHz": 132.675,
+    "name": "Sevilla Control · NO1",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECS"
+  },
+  {
+    "frequencyMHz": 132.600,
+    "name": "Sevilla Control · CEN",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECS"
+  },
+  {
+    "frequencyMHz": 132.475,
+    "name": "Sevilla Control · SUR",
+    "detail": "ACC · FIR/UIR",
+    "mode": "AM",
+    "category": "AVIATION",
+    "aviationType": "FIR_UIR",
+    "fir": "LECS"
+  }
 ]
