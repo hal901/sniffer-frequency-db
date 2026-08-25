@@ -861,7 +861,7 @@
     "detail": "Sistema de Identificación Automática",
     "mode": "DIG",
     "category": "MARITIME"
-  }
+  },
     {
     "frequencyMHz": 243.000,
     "name": "Emergencia aeronáutica",
