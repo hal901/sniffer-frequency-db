@@ -1,0 +1,429 @@
+[
+  {
+    "frequencyMHz": 119.105,
+    "name": "Barcelona APP",
+    "detail": "Aproximación",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.297,
+    "longitude": 2.078
+  },
+  {
+    "frequencyMHz": 121.155,
+    "name": "Barcelona APP",
+    "detail": "Aproximación alta",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.297,
+    "longitude": 2.078
+  },
+  {
+    "frequencyMHz": 125.250,
+    "name": "Barcelona APP",
+    "detail": "Aproximación",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.297,
+    "longitude": 2.078
+  },
+  {
+    "frequencyMHz": 126.505,
+    "name": "Barcelona APP",
+    "detail": "Aproximación alta",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.297,
+    "longitude": 2.078
+  },
+  {
+    "frequencyMHz": 127.700,
+    "name": "Barcelona APP",
+    "detail": "Aproximación",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.297,
+    "longitude": 2.078
+  },
+  {
+    "frequencyMHz": 131.125,
+    "name": "Barcelona APP",
+    "detail": "Aproximación",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.297,
+    "longitude": 2.078
+  },
+  {
+    "frequencyMHz": 133.980,
+    "name": "Barcelona APP",
+    "detail": "Aproximación",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.297,
+    "longitude": 2.078
+  },
+  {
+    "frequencyMHz": 135.280,
+    "name": "Barcelona APP",
+    "detail": "Aproximación",
+    "mode": "AM",
+    "category": "AVIATION",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.297,
+    "longitude": 2.078
+  },
+
+  {
+    "frequencyMHz": 121.500,
+    "name": "Emergencia aeronáutica",
+    "detail": "Frecuencia internacional de emergencia",
+    "mode": "AM",
+    "category": "AVIATION"
+  },
+
+  {
+    "frequencyMHz": 145.650,
+    "name": "ED3YAK · Montjuïc",
+    "detail": "Shift -0.600 MHz · D-STAR",
+    "mode": "D-STAR",
+    "category": "HAM",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.364,
+    "longitude": 2.165
+  },
+  {
+    "frequencyMHz": 145.7375,
+    "name": "ED3YAQ · Collsuspina",
+    "detail": "Shift -0.600 MHz",
+    "mode": "D-STAR",
+    "category": "HAM",
+    "city": "Collsuspina",
+    "region": "Catalunya",
+    "latitude": 41.825,
+    "longitude": 2.175
+  },
+  {
+    "frequencyMHz": 438.3375,
+    "name": "ED3YAN · Barcelona",
+    "detail": "Shift -7.600 MHz · YSF",
+    "mode": "C4FM",
+    "category": "HAM",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.422,
+    "longitude": 2.119
+  },
+  {
+    "frequencyMHz": 438.4125,
+    "name": "ED3ZAK · Tibidabo",
+    "detail": "Shift -7.600 MHz · Color Code 1",
+    "mode": "DMR",
+    "category": "HAM",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.422,
+    "longitude": 2.119
+  },
+  {
+    "frequencyMHz": 438.775,
+    "name": "ED3YAM · Collsuspina",
+    "detail": "Shift -7.600 MHz · CTCSS 88.5 Hz",
+    "mode": "FM",
+    "category": "HAM",
+    "city": "Collsuspina",
+    "region": "Catalunya",
+    "latitude": 41.825,
+    "longitude": 2.175
+  },
+  {
+    "frequencyMHz": 438.875,
+    "name": "ED3YAO · Montjuïc",
+    "detail": "Shift -7.600 MHz · CTCSS 123.0 Hz",
+    "mode": "FM",
+    "category": "HAM",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.364,
+    "longitude": 2.165
+  },
+  {
+    "frequencyMHz": 438.975,
+    "name": "ED3YAD · Sabadell",
+    "detail": "Shift -7.600 MHz · CTCSS 74.4 Hz",
+    "mode": "FM",
+    "category": "HAM",
+    "city": "Sabadell",
+    "region": "Catalunya",
+    "latitude": 41.548,
+    "longitude": 2.107
+  },
+  {
+    "frequencyMHz": 439.000,
+    "name": "ED3ZAH · Montserrat",
+    "detail": "Shift -7.600 MHz · CC1 · multimodo",
+    "mode": "DMR/C4FM",
+    "category": "HAM",
+    "city": "Montserrat",
+    "region": "Catalunya",
+    "latitude": 41.594,
+    "longitude": 1.837
+  },
+
+  {
+    "frequencyMHz": 446.00625,
+    "name": "PMR446 Canal 1",
+    "detail": "Uso común",
+    "mode": "FM",
+    "category": "PMR446"
+  },
+  {
+    "frequencyMHz": 446.01875,
+    "name": "PMR446 Canal 2",
+    "detail": "Uso común",
+    "mode": "FM",
+    "category": "PMR446"
+  },
+  {
+    "frequencyMHz": 446.03125,
+    "name": "PMR446 Canal 3",
+    "detail": "Uso común",
+    "mode": "FM",
+    "category": "PMR446"
+  },
+  {
+    "frequencyMHz": 446.04375,
+    "name": "PMR446 Canal 4",
+    "detail": "Uso común",
+    "mode": "FM",
+    "category": "PMR446"
+  },
+  {
+    "frequencyMHz": 446.05625,
+    "name": "PMR446 Canal 5",
+    "detail": "Uso común",
+    "mode": "FM",
+    "category": "PMR446"
+  },
+  {
+    "frequencyMHz": 446.06875,
+    "name": "PMR446 Canal 6",
+    "detail": "Uso común",
+    "mode": "FM",
+    "category": "PMR446"
+  },
+  {
+    "frequencyMHz": 446.08125,
+    "name": "PMR446 Canal 7",
+    "detail": "Uso común",
+    "mode": "FM",
+    "category": "PMR446"
+  },
+  {
+    "frequencyMHz": 446.09375,
+    "name": "PMR446 Canal 8",
+    "detail": "Uso común",
+    "mode": "FM",
+    "category": "PMR446"
+  },
+  {
+    "frequencyMHz": 446.10625,
+    "name": "PMR446 Canal 9",
+    "detail": "Uso común",
+    "mode": "FM",
+    "category": "PMR446"
+  },
+  {
+    "frequencyMHz": 446.11875,
+    "name": "PMR446 Canal 10",
+    "detail": "Uso común",
+    "mode": "FM",
+    "category": "PMR446"
+  },
+  {
+    "frequencyMHz": 446.13125,
+    "name": "PMR446 Canal 11",
+    "detail": "Uso común",
+    "mode": "FM",
+    "category": "PMR446"
+  },
+  {
+    "frequencyMHz": 446.14375,
+    "name": "PMR446 Canal 12",
+    "detail": "Uso común",
+    "mode": "FM",
+    "category": "PMR446"
+  },
+  {
+    "frequencyMHz": 446.15625,
+    "name": "PMR446 Canal 13",
+    "detail": "Uso común",
+    "mode": "FM",
+    "category": "PMR446"
+  },
+  {
+    "frequencyMHz": 446.16875,
+    "name": "PMR446 Canal 14",
+    "detail": "Uso común",
+    "mode": "FM",
+    "category": "PMR446"
+  },
+  {
+    "frequencyMHz": 446.18125,
+    "name": "PMR446 Canal 15",
+    "detail": "Uso común",
+    "mode": "FM",
+    "category": "PMR446"
+  },
+  {
+    "frequencyMHz": 446.19375,
+    "name": "PMR446 Canal 16",
+    "detail": "Uso común",
+    "mode": "FM",
+    "category": "PMR446"
+  },
+
+  {
+    "frequencyMHz": 156.450,
+    "name": "VHF Canal 09",
+    "detail": "Marina Vela Barcelona",
+    "mode": "FM",
+    "category": "MARITIME",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.385,
+    "longitude": 2.200
+  },
+  {
+    "frequencyMHz": 156.500,
+    "name": "VHF Canal 10",
+    "detail": "Barcelona Tráfico",
+    "mode": "FM",
+    "category": "MARITIME",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.350,
+    "longitude": 2.170
+  },
+  {
+    "frequencyMHz": 156.550,
+    "name": "VHF Canal 11",
+    "detail": "Servicios portuarios · Prácticos",
+    "mode": "FM",
+    "category": "MARITIME",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.350,
+    "longitude": 2.170
+  },
+  {
+    "frequencyMHz": 156.600,
+    "name": "VHF Canal 12",
+    "detail": "Movilización de servicios portuarios",
+    "mode": "FM",
+    "category": "MARITIME",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.350,
+    "longitude": 2.170
+  },
+  {
+    "frequencyMHz": 156.650,
+    "name": "VHF Canal 13",
+    "detail": "Auxiliar de servicios portuarios",
+    "mode": "FM",
+    "category": "MARITIME",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.350,
+    "longitude": 2.170
+  },
+  {
+    "frequencyMHz": 156.700,
+    "name": "VHF Canal 14",
+    "detail": "Barcelona Port Control",
+    "mode": "FM",
+    "category": "MARITIME",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.350,
+    "longitude": 2.170
+  },
+  {
+    "frequencyMHz": 156.425,
+    "name": "VHF Canal 68",
+    "detail": "Marina Port Vell",
+    "mode": "FM",
+    "category": "MARITIME",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.377,
+    "longitude": 2.185
+  },
+  {
+    "frequencyMHz": 156.475,
+    "name": "VHF Canal 69",
+    "detail": "Marina BCN'92",
+    "mode": "FM",
+    "category": "MARITIME",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.390,
+    "longitude": 2.200
+  },
+  {
+    "frequencyMHz": 156.575,
+    "name": "VHF Canal 71",
+    "detail": "AC Port Control · Zona norte",
+    "mode": "FM",
+    "category": "MARITIME",
+    "city": "Barcelona",
+    "region": "Catalunya",
+    "latitude": 41.350,
+    "longitude": 2.170
+  },
+
+  {
+    "frequencyMHz": 156.800,
+    "name": "VHF Canal 16",
+    "detail": "Socorro · Seguridad · Llamada",
+    "mode": "FM",
+    "category": "MARITIME"
+  },
+  {
+    "frequencyMHz": 156.525,
+    "name": "VHF Canal 70",
+    "detail": "DSC · Socorro y llamada digital",
+    "mode": "DIG",
+    "category": "MARITIME"
+  },
+  {
+    "frequencyMHz": 161.975,
+    "name": "AIS 1",
+    "detail": "Sistema de Identificación Automática",
+    "mode": "DIG",
+    "category": "MARITIME"
+  },
+  {
+    "frequencyMHz": 162.025,
+    "name": "AIS 2",
+    "detail": "Sistema de Identificación Automática",
+    "mode": "DIG",
+    "category": "MARITIME"
+  }
+]
